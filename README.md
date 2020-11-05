@@ -2,7 +2,7 @@
 <h3 align="center">I like to learn and expand my knowledge. Here you can find my projects (I try to keep them as neat as possible, I promise 🙏). Thank you for visiting my profile!</h3>
 
 
-- 💻🔨 I’m currently working on a [Todo App with React and Redux](https://github.com/paulinavaira/todoapp-react-redux)
+- 💻🔨 I’m currently working on a [Chat App with Socket.io](https://github.com/paulinavaira/chat-socket.io)
 
 - 👨‍💻 I’m currently learning **SQL(MySQL)**
 
